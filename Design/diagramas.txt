@@ -1,0 +1,1 @@
+Aquí irán los diagramas del proyecto (clases y ERD).
